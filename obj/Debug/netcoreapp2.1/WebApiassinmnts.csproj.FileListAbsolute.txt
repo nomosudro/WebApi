@@ -1,0 +1,14 @@
+C:\Users\purnima.nomosudro\source\repos\WebApiassinmnts\obj\Debug\netcoreapp2.1\WebApiassinmnts.csprojAssemblyReference.cache
+C:\Users\purnima.nomosudro\source\repos\WebApiassinmnts\obj\Debug\netcoreapp2.1\WebApiassinmnts.csproj.CoreCompileInputs.cache
+C:\Users\purnima.nomosudro\source\repos\WebApiassinmnts\obj\Debug\netcoreapp2.1\WebApiassinmnts.RazorAssemblyInfo.cache
+C:\Users\purnima.nomosudro\source\repos\WebApiassinmnts\obj\Debug\netcoreapp2.1\WebApiassinmnts.RazorAssemblyInfo.cs
+C:\Users\purnima.nomosudro\source\repos\WebApiassinmnts\obj\Debug\netcoreapp2.1\WebApiassinmnts.AssemblyInfoInputs.cache
+C:\Users\purnima.nomosudro\source\repos\WebApiassinmnts\obj\Debug\netcoreapp2.1\WebApiassinmnts.AssemblyInfo.cs
+C:\Users\purnima.nomosudro\source\repos\WebApiassinmnts\bin\Debug\netcoreapp2.1\WebApiassinmnts.deps.json
+C:\Users\purnima.nomosudro\source\repos\WebApiassinmnts\bin\Debug\netcoreapp2.1\WebApiassinmnts.runtimeconfig.json
+C:\Users\purnima.nomosudro\source\repos\WebApiassinmnts\bin\Debug\netcoreapp2.1\WebApiassinmnts.runtimeconfig.dev.json
+C:\Users\purnima.nomosudro\source\repos\WebApiassinmnts\bin\Debug\netcoreapp2.1\WebApiassinmnts.dll
+C:\Users\purnima.nomosudro\source\repos\WebApiassinmnts\bin\Debug\netcoreapp2.1\WebApiassinmnts.pdb
+C:\Users\purnima.nomosudro\source\repos\WebApiassinmnts\obj\Debug\netcoreapp2.1\WebApiassinmnts.RazorTargetAssemblyInfo.cache
+C:\Users\purnima.nomosudro\source\repos\WebApiassinmnts\obj\Debug\netcoreapp2.1\WebApiassinmnts.dll
+C:\Users\purnima.nomosudro\source\repos\WebApiassinmnts\obj\Debug\netcoreapp2.1\WebApiassinmnts.pdb
